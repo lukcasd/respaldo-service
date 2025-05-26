@@ -26,4 +26,18 @@ public class Respaldo {
     private String tipo; // Ej: automático, manual
 
     private String estado; // Ej: exitoso, fallido
+
+    private int idVenta;
+
+    private int idProductoVenta;
+
+    private int idProducto;
+
+    private int stock;
+
+    private int idUsuario;
+
+    private String rutUsuario;
+
+    private String correoUsuario;
 }
